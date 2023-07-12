@@ -10,7 +10,11 @@ By using different algorithms like Dijkstra, breadth-first search, depth-first s
 ## How to Use
 
 Compile and run the code.
+
 Follow the on-screen instructions to choose an action from the menu.
+
 Enter the required inputs based on the chosen action.
+
 View the results and continue exploring the metro map functionality.
+
 Feel free to modify and enhance the code according to your requirements.
