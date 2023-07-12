@@ -9,12 +9,12 @@ By using different algorithms like Dijkstra, breadth-first search, depth-first s
 
 ## How to Use
 
-Compile and run the code.
+1.Compile and run the code.
 
-1.Follow the on-screen instructions to choose an action from the menu.
+2.Follow the on-screen instructions to choose an action from the menu.
 
-2.Enter the required inputs based on the chosen action.
+3.Enter the required inputs based on the chosen action.
 
-3.View the results and continue exploring the metro map functionality.
+4.View the results and continue exploring the metro map functionality.
 
-4.Feel free to modify and enhance the code according to your requirements.
+Feel free to modify and enhance the code according to your requirements.
